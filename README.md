@@ -25,18 +25,17 @@
 
 * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) **Done 18 chapters.**
 * [Exam questions](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/6/) **AA do all questions - done many times**
-* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/). Useful list
+* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/). **Useful list**
 * [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification) lots of useful slide presentations. **AA very useful**
 * [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ). **Useful notes and links in video**
 * [Google Cloud (GCP) Associate Cloud Engineer FREE Mini Bootcamp Session 1 Gcloud Project Commands](https://www.youtube.com/watch?v=74iG2HI3w_U)
 * [Associate-Cloud-Engineer - Practice Exam Test Questions PDF Answers](https://www.youtube.com/watch?v=JdQGO9GVkZM) ***done**
 * [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer) **with links to cheatsheets**
 * [Google Quickstarts](https://cloud.google.com/gcp/getting-started) **tutorials: 6 Quickstarts, 4 1-minute videos, 5 Projects. AAA**
-* [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to)
+* [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to) **useful guides**
 * [Google Cloud Command Line for Beginners, or "How to gcloud" | 9.13.18 | Linux Academy](https://www.youtube.com/watch?v=j274vq9a2Rs)
 * [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam. **Done**
 * [Kannan: How I passed GCP Associate Cloud Engineer certification](https://www.hadoopandcloud.com/uncategorized/gcp-associate-cloud-engineer-certification/). Includes useful storage summary table. **Done**
-* [Google Cloud Certified - Associate Cloud Engineer Practice Exam Set 2020](https://skillcertpro.com/product/google-cloud-certified-associate-cloud-engineer-practice-exam-set-2020/) practise exam questions.
 
 ## :books: Useful Advice/Documents/Github Repos - Professional
 
@@ -71,14 +70,13 @@
 * Status: in progress
 * Read through Study Guide 18 chapters & complete exercises **done**
 * Corsera course: Architecting with Google Compute Engine Specialization. 7 weeks at 12/hours per week. 44euro per month. 5 courses - see below
-* Google Cloud Platform Fundamentals: Core Infrastructure - done
+* Google Cloud Platform Fundamentals: Core Infrastructure - **done**
 * Essential Cloud Infrastructure: Foundation - done
 * Essential Cloud Infrastructure: Core Services - done
 * Elastic Cloud Infrastructure: Scaling and Automation - done
 * Reliable Cloud Infrastructure: Design and Process - done
 
-* [Google Cloud: Exam prep course](https://google.qwiklabs.com/courses/879&utm_source=cloud-dot-google&utm_medium=website)
-* [Practise Exam](https://cloud.google.com/certification/practice-exam/cloud-engineer)
+* [Practise Exam](https://cloud.google.com/certification/practice-ccexam/cloud-engineer)
 
 ## Study Guide Review Questions
 

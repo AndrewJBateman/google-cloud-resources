@@ -56,7 +56,7 @@
 * Automatic deletion of objects and Objects transfer between the different storage classes using lifecycle policies
 
 * [How Google stores massive amounts of data — BigTable](https://medium.com/@avantikadasgupta/how-google-stores-massive-amounts-of-data-bigtable-d67f49bfc40e)
-* [GCP storage info](https://blog.virtuegroup.com/gcp-data-layer-design/) AAA
+* [Cloud Bigtable](https://cloud.google.com/bigtable)
 * [Platform Overview - Data & Storage (Google Cloud Essentials)](https://www.youtube.com/watch?v=tc2940Zwvyk) includes many useful links
 
 ## Kubernetes Engine

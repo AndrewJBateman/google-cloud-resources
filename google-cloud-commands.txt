@@ -7,6 +7,7 @@ gcloud auth login
 gcloud auth print-access-token
 gcloud auth print-refresh-token
 gcloud auth revoke
+
 gcloud components
 gcloud components list
 gcloud components remove
@@ -16,6 +17,7 @@ gcloud components repositories list
 gcloud components repositories remove
 gcloud components restore
 gcloud components update
+
 gcloud compute
 gcloud compute addresses
 gcloud compute addresses create
@@ -157,10 +159,12 @@ gcloud compute url-maps set-default-service
 gcloud compute zones
 gcloud compute zones describe
 gcloud compute zones list
+
 gcloud config
 gcloud config list
 gcloud config set
 gcloud config unset
+
 gcloud dns
 gcloud dns changes
 gcloud dns changes get
@@ -175,9 +179,12 @@ gcloud dns project-info get
 gcloud dns records
 gcloud dns records edit
 gcloud dns records list
+
 gcloud help
+
 gcloud info
 gcloud init
+
 gcloud preview
 gcloud preview autoscaler
 gcloud preview autoscaler create
@@ -302,6 +309,7 @@ gcloud preview rolling-updates pause
 gcloud preview rolling-updates resume
 gcloud preview rolling-updates rollback
 gcloud preview rolling-updates start
+
 gcloud sql
 gcloud sql backups
 gcloud sql backups describe
@@ -333,4 +341,5 @@ gcloud sql ssl-certs describe
 gcloud sql ssl-certs list
 gcloud sql tiers
 gcloud sql tiers list
+
 gcloud version

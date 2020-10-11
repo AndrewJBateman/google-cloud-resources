@@ -42,9 +42,9 @@ SSH to instance	=gcloud compute ssh –project “<project-name>” –zone “<
 Download files	gcloud compute copy-files example-instance:~/REMOTE-DIR ~/LOCAL-DIR --zone us-central1-a
 Upload files	gcloud compute copy-files ~/LOCAL-FILE-1 example-instance:~/REMOTE-DIR --zone us-central1-a
 
-List all disks	gcloud compute disks list
+List all disk	gcloud compute disks list
 List all disk types	gcloud compute disk-types list
-List all snapshots	gcloud compute snapshots list
+List all snapshotsgcloud compute snapshots list
 Create snapshot	gcloud compute disks snapshot <diskname> --snapshotname <name1> --zone $zone
 
 List all networks	gcloud compute networks list
@@ -71,7 +71,6 @@ Set kubectl context	gcloud container clusters get-credentials <cluster-name>
 
 List all sql instances	gcloud sql instances list
 
-List my backend services	gcloud compute backend-services list
+List my backend services gcloud compute backend-services list
 List all my health check endpoints	gcloud compute http-health-checks list
 List all URL maps	gcloud compute url-maps list
-
