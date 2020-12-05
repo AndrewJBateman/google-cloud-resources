@@ -23,7 +23,6 @@
 * Shared VPC
 * VPC peering vs VPN vs Interconnect
 * Types of load balancers and use cases
-
 * [VSPARKZ | GCP Load Balancing | GCP Layer 7 Load Balancer | Google Cloud HTTP Load Balancer DEMO](https://www.youtube.com/watch?v=5eOAecLzRYA)
 
 ## Projects

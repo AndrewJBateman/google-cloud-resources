@@ -20,22 +20,22 @@
 * GCP associate cloud engineer certification is designed to test your knowledge on creating/managing projects/billing accounts, IAM, deploying applications, using console/cli to perform operations, monitoring and high-level understanding of all service offerings.
 * [WebAssessor Link](https://www.webassessor.com/wa.do?page=login&branding=HOST_NETWORK)
 * [Test Centre](https://www.kryteriononline.com/)
+* [Preparing for Google Cloud Associate Cloud Engineer Exam](https://www.youtube.com/watch?v=RbIbS0YMFs4)
 
 ## :books: Useful Advice/Documents/Github Repos - Associate
 
-* [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) **Done 18 chapters.**
-* [Exam questions](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/6/) **AA do all questions - done many times**
+* [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view)
+* [Exam questions](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/6/)
 * [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/). **Useful list**
 * [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification) lots of useful slide presentations. **AA very useful**
 * [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ). **Useful notes and links in video**
 * [Google Cloud (GCP) Associate Cloud Engineer FREE Mini Bootcamp Session 1 Gcloud Project Commands](https://www.youtube.com/watch?v=74iG2HI3w_U)
-* [Associate-Cloud-Engineer - Practice Exam Test Questions PDF Answers](https://www.youtube.com/watch?v=JdQGO9GVkZM) ***done**
+* [Associate-Cloud-Engineer - Practice Exam Test Questions PDF Answers](https://www.youtube.com/watch?v=JdQGO9GVkZM)
 * [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer) **with links to cheatsheets**
 * [Google Quickstarts](https://cloud.google.com/gcp/getting-started) **tutorials: 6 Quickstarts, 4 1-minute videos, 5 Projects. AAA**
 * [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to) **useful guides**
 * [Google Cloud Command Line for Beginners, or "How to gcloud" | 9.13.18 | Linux Academy](https://www.youtube.com/watch?v=j274vq9a2Rs)
-* [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam. **Done**
-* [Kannan: How I passed GCP Associate Cloud Engineer certification](https://www.hadoopandcloud.com/uncategorized/gcp-associate-cloud-engineer-certification/). Includes useful storage summary table. **Done**
+* [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam.
 
 ## :books: Useful Advice/Documents/Github Repos - Professional
 
@@ -57,7 +57,7 @@
 
 * [Kubernetes Website](https://kubernetes.io/docs/home/)
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture)
-* [Google Cloud list of concepts](https://cloud.google.com/iam/docs/concepts) **done**
+* [Google Cloud list of concepts](https://cloud.google.com/iam/docs/concepts)
 * [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
 * [Google Cloud Platform Certification resources](https://github.com/sathishvj/awesome-gcp-certifications)
 * [Cloud Spanner with Deepti Srivastava](https://www.gcppodcast.com/post/episode-62-cloud-spanner-with-deepti-srivastava/)
@@ -67,16 +67,8 @@
 
 ## :clipboard: Status & To-do list
 
-* Status: in progress
-* Read through Study Guide 18 chapters & complete exercises **done**
-* Corsera course: Architecting with Google Compute Engine Specialization. 7 weeks at 12/hours per week. 44euro per month. 5 courses - see below
-* Google Cloud Platform Fundamentals: Core Infrastructure - **done**
-* Essential Cloud Infrastructure: Foundation - done
-* Essential Cloud Infrastructure: Core Services - done
-* Elastic Cloud Infrastructure: Scaling and Automation - done
-* Reliable Cloud Infrastructure: Design and Process - done
-
-* [Practise Exam](https://cloud.google.com/certification/practice-ccexam/cloud-engineer)
+* Status: exam passed
+* To-do: find next exam
 
 ## Study Guide Review Questions
 
@@ -102,7 +94,8 @@
 
 ## Practise Exam Answers
 
-* 1:C 2:B 3:A 4:B (gcloud config set compute/region europe-west1)
+* [Practise Exam](https://cloud.google.com/certification/practice-ccexam/cloud-engineer)
+* 1:C 2:B 3:A (BigQuery) 4:B (gcloud config set compute/region europe-west1)
 * 5:C (app engine pricing calculator) 6:C 7:B (storage bucket) 8:C (autoscaling) 9:A,E (stackdriver logging)
 * 10:A (KE autoscaling) 11:A (snapshot) 12:B,C (data storage) 13:A (Kub cluster resize) 14:D
 * 15:D (Kubernetes ingress resource) 16:B (BigQuery dry run) 17:B (roles)
