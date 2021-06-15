@@ -1,8 +1,13 @@
 # :zap: Google Cloud Architect Certification
 
 * Information on Google Associate & Professional Cloud Architect Certification.
+* Note: a lot of the links below are 2 years old so it is important to check the latest exam list of subjects. In my experience there is a large body of fundamentals that do not change-
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/google-cloud-resources?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/google-cloud-resources?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/google-cloud-resources?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/google-cloud-resources?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -30,7 +35,6 @@
 * [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification) lots of useful slide presentations. **AA very useful**
 * [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ). **Useful notes and links in video**
 * [Google Cloud (GCP) Associate Cloud Engineer FREE Mini Bootcamp Session 1 Gcloud Project Commands](https://www.youtube.com/watch?v=74iG2HI3w_U)
-* [Associate-Cloud-Engineer - Practice Exam Test Questions PDF Answers](https://www.youtube.com/watch?v=JdQGO9GVkZM)
 * [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer) **with links to cheatsheets**
 * [Google Quickstarts](https://cloud.google.com/gcp/getting-started) **tutorials: 6 Quickstarts, 4 1-minute videos, 5 Projects. AAA**
 * [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to) **useful guides**
@@ -45,13 +49,9 @@
 * [Google Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 * [Global Knowledge: A Complete Guide: How to Become a Google Certified Professional Cloud Architect](https://www.globalknowledge.com/us-en/content/cert-prep-guides/a-complete-guide-how-to-become-a-google-certified-professional-cloud-architect/)
 * [Google Cloud Platform (GCP) - How do I choose among the Storage and Big Data options?](https://matscloud.blogspot.com/2018/03/google-cloud-platform-gcp-how-do-i.html)
-* [Github Repo: cloudcoban/gcp-professional-architect-certification](https://github.com/cloudcoban/gcp-professional-architect-certification)
 * [Github Repo: jorwalk/cloud-architect-gcp](https://github.com/jorwalk/cloud-architect-gcp)
 * [Github Repo: sekalska/gcp-architect-cheatsheet](https://github.com/sekalska/gcp-architect-cheatsheet)
 * [Github repo: Patechoc GCP Memo](https://github.com/Patechoc/GCP_memo/tree/master/cloud_architect)
-* Case Study - [dress4win](https://www.coursera.org/lecture/preparing-cloud-professional-cloud-architect-exam/dress4win-case-study-analysis-JfG2yf)
-* Case Study - Mountkirk Games
-* Case Study - TerramEarth
 
 ## :computer: Common Web Links
 
@@ -67,7 +67,7 @@
 
 ## :clipboard: Status & To-do list
 
-* Status: exam passed
+* Status: exam passed. Info. here updated
 * To-do: find next exam
 
 ## Study Guide Review Questions
@@ -101,6 +101,10 @@
 * 15:D (Kubernetes ingress resource) 16:B (BigQuery dry run) 17:B (roles)
 * 18:D (custom roles) 19:C (view-access) 20:A (permissions)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
