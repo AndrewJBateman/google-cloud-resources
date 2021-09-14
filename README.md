@@ -1,7 +1,12 @@
-# :zap: Google Cloud Architect Certification
+# :zap: Google Cloud Resources
 
-* Information on Google Associate & Professional Cloud Architect Certification.
-* Note: a lot of the links below are 2 years old so it is important to check the latest exam list of subjects. In my experience there is a large body of fundamentals that do not change-
+* Information on Google Associate Cloud Engineer(ACE) & Professional Data Engineer (PDE) Certifications.
+* Note: a lot of the links below are 2 years old so it is important to check the latest exam list of subjects. In my experience there is a large body of fundamentals that do not change
+* I took the ACE exam online at home and passed first time but it took a lot of preparation time.
+* See Google exam guidelines and be prepared - you need to clear a room and must concentrate for about 2.5 hours (there is the 2-hour exam + waiting time + pre-exam setup and a post-exam feedback questionnaire - a long time without a pee). You will need to film the room for the examiners so they can see there are no notes stuck to the celing etc. And you cannot look away from the screen as your camera will be monitoring your eye-movements.
+* **Check your wifi UPLOAD speed (i.e. not just your download speed)**. Recommended minimum of 1.0 Mbps upload / 1.0 Mbps download)- [Kryterion have an online test](https://www.kryteriononline.com/systemcheck/) you can do. I actually had to pay a fee to reschedule my exam when I realised on the exam day that my internet upload speed was not enough - don't do this.
+* I was informed that I passed right after the exam, although they do not tell you how many questions you got right. In about a week I got an official email notification that I was certified.
+* **Note** certification lasts for 2 years, after which a recertification exam is required.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/google-cloud-resources?style=plastic)
@@ -11,23 +16,27 @@
 
 ## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Google Cloud Resources](#zap-google-cloud-resources)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:computer: General Info](#computer-general-info)
+  * [:books: Detailed Info - ACE](#books-detailed-info-ace)
+  * [:books: Detailed Info - PDE](#books-detailed-info-pde)
+  * [:computer: Common Web Links](#computer-common-web-links)
+  * [:clipboard: Status & To-do List](#clipboard-status-&-to-do-list)
+  * [:clipboard: ACE Study Guide Review Questions](#clipboard-ace-study-guide-review-questions)
+  * [:clipboard: ACE Practise Exam Answers](#clipboard-ace-practise-exam-answers)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
-## :computer: Google Associate Cloud Engineer
+## :computer: General Info
 
-* GCP associate cloud engineer certification is designed to test your knowledge on creating/managing projects/billing accounts, IAM, deploying applications, using console/cli to perform operations, monitoring and high-level understanding of all service offerings.
+* The GCP Associate Cloud Engineer exam is designed to test your knowledge on creating/managing projects/billing accounts, IAM, deploying applications, using console/cli to perform operations, monitoring and high-level understanding of all service offerings.
+* The GCP Professional Data Engineer exam tests your knowledge of Design data processing systems, Ensure solution quality, Build and operationalize data processing systems & Operationalize machine learning models
 * [WebAssessor Link](https://www.webassessor.com/wa.do?page=login&branding=HOST_NETWORK)
 * [Test Centre](https://www.kryteriononline.com/)
 * [Preparing for Google Cloud Associate Cloud Engineer Exam](https://www.youtube.com/watch?v=RbIbS0YMFs4)
 
-## :books: Useful Advice/Documents/Github Repos - Associate
+## :books: Detailed Info - ACE
 
 * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view)
 * [Exam questions](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/6/)
@@ -41,17 +50,12 @@
 * [Google Cloud Command Line for Beginners, or "How to gcloud" | 9.13.18 | Linux Academy](https://www.youtube.com/watch?v=j274vq9a2Rs)
 * [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam.
 
-## :books: Useful Advice/Documents/Github Repos - Professional
+## :books: Detailed Info - PDE
 
-* [Medium Article: Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5)
-* [sathish vj, Medium: Notes from my Google Cloud Professional Cloud Architect Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30)
-* [Google Cloud – Professional Cloud Architect Certification learning path](http://jayendrapatil.com/google-cloud-professional-cloud-architect-certification-learning-path/)
-* [Google Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
-* [Global Knowledge: A Complete Guide: How to Become a Google Certified Professional Cloud Architect](https://www.globalknowledge.com/us-en/content/cert-prep-guides/a-complete-guide-how-to-become-a-google-certified-professional-cloud-architect/)
-* [Google Cloud Platform (GCP) - How do I choose among the Storage and Big Data options?](https://matscloud.blogspot.com/2018/03/google-cloud-platform-gcp-how-do-i.html)
-* [Github Repo: jorwalk/cloud-architect-gcp](https://github.com/jorwalk/cloud-architect-gcp)
-* [Github Repo: sekalska/gcp-architect-cheatsheet](https://github.com/sekalska/gcp-architect-cheatsheet)
-* [Github repo: Patechoc GCP Memo](https://github.com/Patechoc/GCP_memo/tree/master/cloud_architect)
+* [Google: Professional Data Engineer](https://cloud.google.com/certification/data-engineer) official description of exam,
+* [towards data science: How I passed the Google Professional Data Engineer Exam in 2020](https://towardsdatascience.com/how-i-passed-google-professional-data-engineer-exam-in-2020-2830e10658b6)
+* [servian: Google Cloud Professional Data Engineer Certification— my personal study guide!](https://servian.dev/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3)
+* [IT Cheer Up: Complete 2.5 Hours Google Cloud Professional Data Engineer Certification Exam Preparation](https://www.youtube.com/watch?v=TB92cDzhJQE)
 
 ## :computer: Common Web Links
 
@@ -65,12 +69,12 @@
 * [Small cloud project: NODE.JS ON GOOGLE CLOUD](https://cloud.google.com/nodejs#tab1)
 * [Github dennyzhang: cheatsheet-gcp-A4](https://github.com/dennyzhang/cheatsheet-gcp-A4)
 
-## :clipboard: Status & To-do list
+## :clipboard: Status & To-do List
 
-* Status: exam passed. Info. here updated
-* To-do: find next exam
+* Status: ACE exam passed. Info. here updated, Studying for PDE
+* To-do: study
 
-## Study Guide Review Questions
+## :clipboard: ACE Study Guide Review Questions
 
 * Asm 1:A 2:B 3:D 4:A 5:C 6:B 7:C 8:C 9:A 10:C 11:B 12:B 13:C 14:A 15:B 16:A 17:C 18:B 19:A 20:D 21:B 22:A 23:D 24:C 25:A
 * Ch1 1:B 2:D 3:B 4:B 5:D 6:C 7:C 8:B 9:B 10:D 11:B 12:D 13:A 14:A 15:D 16:B 17:C 18:B 19:C 20:B
@@ -92,7 +96,7 @@
 * Ch17 1:B 2:A 3:B 4:B 5:C 6:B 7:D 8:B 9:D 10:D 11:B 12:B 13:C 14:C 15:B 16:B 17:A 18:C 19:B 20:B
 * Ch18 1:B 2:B 3:D 4:B 5:D 6:D 7:A 8:C 9:B 10:D 11:D 12:B 13:B 14:C 15:D 16:B 17:B 18:C 19:B 20:B
 
-## Practise Exam Answers
+## ACE Practise Exam Answers
 
 * [Practise Exam](https://cloud.google.com/certification/practice-ccexam/cloud-engineer)
 * 1:C 2:B 3:A (BigQuery) 4:B (gcloud config set compute/region europe-west1)
