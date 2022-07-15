@@ -1,7 +1,7 @@
 # :zap: Google Cloud Resources
 
-* Information on Google Associate Cloud Engineer(ACE) & Professional Data Engineer (PDE) Certifications.
-* Note: a lot of the links below are 2 years old so it is important to check the latest exam list of subjects. In my experience there is a large body of fundamentals that do not change
+* Information on Google Associate Cloud Engineer (ACE) & Professional Data Engineer (PDE) Certifications.
+* Note: a lot of the links below are 3 years old so it is important to check the latest exam list of subjects. In my experience there is a large body of fundamentals that do not change
 * I took the ACE exam online at home and passed first time but it took a lot of preparation time.
 * See Google exam guidelines and be prepared - you need to clear a room and must concentrate for about 2.5 hours (there is the 2-hour exam + waiting time + pre-exam setup and a post-exam feedback questionnaire - a long time without a pee). You will need to film the room for the examiners so they can see there are no notes stuck to the celing etc. And you cannot look away from the screen as your camera will be monitoring your eye-movements.
 * **Check your wifi UPLOAD speed (i.e. not just your download speed)**. Recommended minimum of 1.0 Mbps upload / 1.0 Mbps download)- [Kryterion have an online test](https://www.kryteriononline.com/systemcheck/) you can do. I actually had to pay a fee to reschedule my exam when I realised on the exam day that my internet upload speed was not enough - don't do this.
@@ -19,13 +19,15 @@
 * [:zap: Google Cloud Resources](#zap-google-cloud-resources)
   * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:computer: General Info](#computer-general-info)
-  * [:books: Detailed Info - ACE](#books-detailed-info-ace)
-  * [:books: Detailed Info - PDE](#books-detailed-info-pde)
+  * [:books: Detailed Info - ACE](#books-detailed-info---ace)
+  * [:books: Detailed Info - PDE](#books-detailed-info---pde)
   * [:computer: Common Web Links](#computer-common-web-links)
-  * [:clipboard: Status & To-do List](#clipboard-status-&-to-do-list)
+  * [:clipboard: Other Courses](#clipboard-other-courses)
+  * [:clipboard: Status & To-do List](#clipboard-status--to-do-list)
   * [:clipboard: ACE Study Guide Review Questions](#clipboard-ace-study-guide-review-questions)
-  * [:clipboard: ACE Practise Exam Answers](#clipboard-ace-practise-exam-answers)
-  * [:clap: Inspiration](#clap-inspiration)
+  * [ACE Practise Exam Answers](#ace-practise-exam-answers)
+  * [PDE Practise Exam Answers](#pde-practise-exam-answers)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :computer: General Info
@@ -34,28 +36,37 @@
 * The GCP Professional Data Engineer exam tests your knowledge of Design data processing systems, Ensure solution quality, Build and operationalize data processing systems & Operationalize machine learning models
 * [WebAssessor Link](https://www.webassessor.com/wa.do?page=login&branding=HOST_NETWORK)
 * [Test Centre](https://www.kryteriononline.com/)
-* [Preparing for Google Cloud Associate Cloud Engineer Exam](https://www.youtube.com/watch?v=RbIbS0YMFs4)
 
 ## :books: Detailed Info - ACE
 
-* [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view)
-* [Exam questions](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/6/)
-* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/). **Useful list**
-* [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification) lots of useful slide presentations. **AA very useful**
-* [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ). **Useful notes and links in video**
-* [Google Cloud (GCP) Associate Cloud Engineer FREE Mini Bootcamp Session 1 Gcloud Project Commands](https://www.youtube.com/watch?v=74iG2HI3w_U)
-* [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer) **with links to cheatsheets**
-* [Google Quickstarts](https://cloud.google.com/gcp/getting-started) **tutorials: 6 Quickstarts, 4 1-minute videos, 5 Projects. AAA**
-* [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to) **useful guides**
-* [Google Cloud Command Line for Beginners, or "How to gcloud" | 9.13.18 | Linux Academy](https://www.youtube.com/watch?v=j274vq9a2Rs)
-* [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam.
+* [Preparing for Google Cloud Associate Cloud Engineer Exam](https://www.youtube.com/watch?v=RbIbS0YMFs4) :white_check_mark: 06/2022
+* [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) :white_check_mark: 03/2022
+* [Exam questions](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/6/) :white_check_mark: 03/2022
+* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/). **Useful list** :white_check_mark: 03/2022
+* [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification) lots of useful slide presentations. :white_check_mark: 03/2022
+* [Cloud Advocate: How to pass Google Associate Cloud Engineer](https://www.youtube.com/watch?v=PUid9-TIdIQ). **Useful notes and links in video** :white_check_mark: 03/2022
+* [Google Cloud (GCP) Associate Cloud Engineer FREE Mini Bootcamp Session 1 Gcloud Project Commands](https://www.youtube.com/watch?v=74iG2HI3w_U) :white_check_mark: 03/2022
+* [Google Cloud Associate Engineer Study Notes](https://github.com/WebLeash/gcp_associate_engineer) **with links to cheatsheets** :white_check_mark: 03/2022
+* [Google Quickstarts](https://cloud.google.com/gcp/getting-started) **tutorials: 6 Quickstarts, 4 1-minute videos, 5 Projects. AAA** :white_check_mark: 03/2022
+* [Powershell how-to guides](https://cloud.google.com/tools/powershell/docs/how-to) **useful guides** :white_check_mark: 03/2022
+* [Google Cloud Command Line for Beginners, or "How to gcloud" | 9.13.18 | Linux Academy](https://www.youtube.com/watch?v=j274vq9a2Rs) :white_check_mark: 03/2022
+* [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/). Includes link to test exam. :white_check_mark: 03/2022
 
 ## :books: Detailed Info - PDE
 
-* [Google: Professional Data Engineer](https://cloud.google.com/certification/data-engineer) official description of exam,
-* [towards data science: How I passed the Google Professional Data Engineer Exam in 2020](https://towardsdatascience.com/how-i-passed-google-professional-data-engineer-exam-in-2020-2830e10658b6)
-* [servian: Google Cloud Professional Data Engineer Certification— my personal study guide!](https://servian.dev/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3)
+* [Google: Professional Data Engineer](https://cloud.google.com/certification/data-engineer) official description of exam :white_check_mark: 06/2022
+* [towards data science: How I passed the Google Professional Data Engineer Exam in 2020](https://towardsdatascience.com/how-i-passed-google-professional-data-engineer-exam-in-2020-2830e10658b6) :white_check_mark: 06/2022
+* [servian: Google Cloud Professional Data Engineer Certification— my personal study guide!](https://servian.dev/google-cloud-data-engineer-exam-study-guide-9afc80be2ee3) :white_check_mark: 06/2022
 * [IT Cheer Up: Complete 2.5 Hours Google Cloud Professional Data Engineer Certification Exam Preparation](https://www.youtube.com/watch?v=TB92cDzhJQE)
+* [Github repo: GCP-Data-Engineer-Prep](https://github.com/NithishReddyNY/GCP-Data-Engineer-Prep) :white_check_mark: 06/2022
+* [Github repo: igormsg/gcp_data_engineer](https://github.com/igormsg/gcp_data_engineer)
+* [Github repo: Jorge13santos/Awesome-gcp-certifications](https://github.com/Jorge13santos/Awesome-gcp-certifications)
+* [Github repo: angulartist/google-cloud-data-engineer-resources](https://github.com/angulartist/google-cloud-data-engineer-resources) :white_check_mark: 06/2022
+* [Github repo: aceisScope/GCP_DE_Notes](https://github.com/aceisScope/GCP_DE_Notes) :white_check_mark: 06/2022
+* [Leverege/gcp-data-engineer-exam](https://github.com/Leverege/gcp-data-engineer-exam) study notes :white_check_mark: 06/2022
+* [Github repo: sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-data-engineer.md) :white_check_mark: 06/2022
+* [Google Services and APIs for Data Engineering](https://luminous-manuscript-743.notion.site/Google-Services-and-APIs-for-Data-Engineering-91781dca9a91435fa7b3256eb2b87c71) :white_check_mark: 07/2022
+* [List of Google services and APIs](https://luminous-manuscript-743.notion.site/Google-Services-and-APIs-for-Data-Engineering-91781dca9a91435fa7b3256eb2b87c71) :white_check_mark: 07/2022
 
 ## :computer: Common Web Links
 
@@ -67,12 +78,22 @@
 * [Cloud Spanner with Deepti Srivastava](https://www.gcppodcast.com/post/episode-62-cloud-spanner-with-deepti-srivastava/)
 * [IP calculator](https://www.tunnelsup.com/subnet-calculator/) **useful calculator**
 * [Small cloud project: NODE.JS ON GOOGLE CLOUD](https://cloud.google.com/nodejs#tab1)
-* [Github dennyzhang: cheatsheet-gcp-A4](https://github.com/dennyzhang/cheatsheet-gcp-A4)
+* [Github dennyzhang: cheatsheet-gcp-A4](https://github.com/dennyzhang/cheatsheet-gcp-A4) :white_check_mark: 06/2022
+
+## :clipboard: Other Courses
+
+* [OnlineCourseing: Udacity Data Engineer Nanodegree Review 2021: Be a Successful Data Engineer](https://onlinecourseing.com/udacity-data-engineer-nanodegree-review/)
 
 ## :clipboard: Status & To-do List
 
-* Status: ACE exam passed. Info. here updated, Studying for PDE
-* To-do: study
+* Status: ACE exam passed.
+* To-do: Study for PDE:
+* [Google Professional Cloud Data Engineer Practice Exam Part 1](https://www.youtube.com/watch?v=xAI06pIQaZM) done 2x
+* Google Preparing for the Google Cloud Professional Data Engineer Exam
+* [Google Professional Data Engineer Exam Actual Questions](https://www.examtopics.com/exams/google/professional-data-engineer/view/7/) question 33
+* [Using BigQuery ML to predict penguin weight](https://cloud.google.com/bigquery-ml/docs/linear-regression-tutorial)
+* [Qwiklabs Data Engineering](https://www.cloudskillsboost.google/quests/25?locale=en)
+* [Coursera Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) ??
 
 ## :clipboard: ACE Study Guide Review Questions
 
@@ -104,6 +125,11 @@
 * 10:A (KE autoscaling) 11:A (snapshot) 12:B,C (data storage) 13:A (Kub cluster resize) 14:D
 * 15:D (Kubernetes ingress resource) 16:B (BigQuery dry run) 17:B (roles)
 * 18:D (custom roles) 19:C (view-access) 20:A (permissions)
+
+## PDE Practise Exam Answers
+
+* [Professional Data Engineer info.](https://cloud.google.com/certification/data-engineer)
+* 1:A (BigQuery) 2:D (ML model) 3:C (Cloud SQL) 4:A (Spanner) 5:B (Spanner) 6:A (BigTable) 7:A (BigQuery) 8:A (BigTable Key Visualizer) 9:D (Data transfer to BigQuery) 10:A (Dataproc) 11:D (SQL Server) 12:D (BigQuery) 13:B (Dataflow) 14:A (Dataflow) 15:A (BigTable) 16:A (Dataproc) 17:C (BigQuery) 18:B (ML model) 19:D (Cloud DLP) 20:B (Pub/Sub)
 
 ## :file_folder: License
 
